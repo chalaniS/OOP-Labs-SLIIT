@@ -47,6 +47,8 @@ public class exAll {
 
         }
 
+        System.out.println("\n\n");
+
     }
 
 }
