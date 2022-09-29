@@ -1,6 +1,6 @@
-package L1;
+package Lab1;
 
-public class Ex1 {
+public class exAll {
 
     public static void main(String args[]) {
 
