@@ -1,4 +1,4 @@
-package Lab8;
+package Lab7;
 
 public class Ex1b<T extends Number> {
 
