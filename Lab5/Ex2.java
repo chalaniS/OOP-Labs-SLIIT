@@ -58,7 +58,7 @@ class Box implements ICompute {
     }
 }
 
-class Main {
+class Ex2 {
     public static void main(String[] args) {
         ICompute ob1 = new Person("Danushka", 40000, 1000, 5, 0);
         ob1.calculate();
